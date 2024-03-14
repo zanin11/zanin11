@@ -1,4 +1,3 @@
-## My name is Guilherme Zanin
 ##
 ## Computer Science Student - Unesp Bauru
 ##
